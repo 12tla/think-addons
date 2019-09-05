@@ -2,7 +2,7 @@
     "name": "twelvet/think-addons",
     "description": "The ThinkPHP5.1 Addons Package",
     "homepage": "https://github.com/12tla/think-addons",
-    "keywords":  ["addons", "think-addons", "tp5-addons","twelvet","thinkphp5.1"],
+    "keywords":  ["addons", "think-addons","twelvet","thinkphp5.1"],
     "license": "Apache-2.0",
     "minimum-stability": "dev",
     "authors": [
