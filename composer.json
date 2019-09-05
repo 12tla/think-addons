@@ -3,7 +3,7 @@
     "description": "The ThinkPHP5.1 Addons Package",
     "homepage": "https://github.com/12tla/think-addons",
     "license": "Apache-2.0",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "TwelveT",
