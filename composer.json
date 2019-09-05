@@ -1,10 +1,10 @@
 {
-    "name": "zzstudio/think-addons",
+    "name": "twelvet/think-addons",
     "description": "The ThinkPHP5.1 Addons Package",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Twelvet",
+            "name": "TwelveT",
             "email": "2471835953@qq.com"
         }
     ],
