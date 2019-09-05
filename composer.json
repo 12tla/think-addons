@@ -1,15 +1,20 @@
 {
-    "name": "zzstudio/think-addons",
+    "name": "twelvet/think-addons",
     "description": "The ThinkPHP5.1 Addons Package",
+    "homepage": "https://github.com/12tla/think-addons",
     "license": "Apache-2.0",
+    "minimum-stability": "dev",
     "authors": [
         {
-            "name": "byron",
-            "email": "xiaobo.sun@qq.com"
+            "name": "TwelveT",
+            "email": "2471835953@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/5ini99/think-addons/issues"
+    },
     "require": {
+        "php": ">=5.6.0",
         "topthink/framework": "5.1.*"
     },
     "autoload": {
